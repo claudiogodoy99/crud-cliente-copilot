@@ -1,0 +1,6 @@
+@dev_ao_vivo_crud_cliente_HostAddress = http://localhost:5177
+
+GET {{dev_ao_vivo_crud_cliente_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
